@@ -7,10 +7,6 @@
 ```bash
 # run train_woGAN_2.py for dataset with sar
 python train_woGAN_2.py
-
-```bash
-# for sar
-python predict_2.py
 ```
 
 ## SAR-F
