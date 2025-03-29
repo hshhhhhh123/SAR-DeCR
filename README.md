@@ -1,6 +1,5 @@
 # SAR-DeCR
 ### SAR-DeCR: Latent Diffusion for SAR-Fused Thick Cloud Removal
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-blue.svg)](https://export.arxiv.org/abs/2403.11870)<br>
 
 ## Codes
 
