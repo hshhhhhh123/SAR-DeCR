@@ -16,7 +16,3 @@ Download the latent models [[Baidu Drive](https://pan.baidu.com/s/1EsbT-3bQKbBug
 python inference.py
 ```
 
-## INR
-
-Change the number in [ddpm.py](https://github.com/SongYxing/IDF-CR/blob/main/latent/ldm/models/diffusion/ddpm.py) L489.
-
