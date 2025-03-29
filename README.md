@@ -4,8 +4,9 @@
 
 ## Codes
 
-More details can be found in [CCR](https://github.com/hshhhhhh123/SAR-DeCR/tree/main/latent) and  [CF-D](https://github.com/hshhhhhh123/SAR-DeCR/tree/main/pixel).
+More details about CCR can be found in [CCR](https://github.com/hshhhhhh123/SAR-DeCR/tree/main/latent).
+More details about SAR-F and CF-D can be found in [CCR](https://github.com/hshhhhhh123/SAR-DeCR/tree/main/pixel).
 
 ## Acknowledgement
 
-This project is build based on [Spa-GAN](https://github.com/Penn000/SpA-GAN_for_cloud_removal) and [DiffBIR](https://github.com/XPixelGroup/DiffBIR). We thank the authors for sharing their code.
+This project is built based on [Spa-GAN](https://github.com/Penn000/SpA-GAN_for_cloud_removal) and [DiffBIR](https://github.com/XPixelGroup/DiffBIR). We thank the authors for sharing their code.
