@@ -4,7 +4,7 @@
 
 ## Codes
 
-More details can be found in [pixel](https://github.com/SongYxing/IDF-CR/blob/main/pixel) and  [latent](https://github.com/SongYxing/IDF-CR/blob/main/latent).
+More details can be found in [CCR](https://github.com/hshhhhhh123/SAR-DeCR/tree/main/latent) and  [CF-D](https://github.com/hshhhhhh123/SAR-DeCR/tree/main/pixel).
 
 ## Acknowledgement
 
