@@ -5,7 +5,6 @@
 ## Train
 
 ```bash
-# run train_woGAN_2.py for dataset with sar
 python train_woGAN_2.py
 ```
 
