@@ -4,7 +4,7 @@
 
 ## Codes
 
-More details about CCR can be found in [CCR](https://github.com/hshhhhhh123/SAR-DeCR/tree/main/latent).
+More details about CCR can be found in [latent](https://github.com/hshhhhhh123/SAR-DeCR/tree/main/latent).
 More details about SAR-F and CF-D can be found in [CCR](https://github.com/hshhhhhh123/SAR-DeCR/tree/main/pixel).
 
 ## Acknowledgement
