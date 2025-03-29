@@ -1,6 +1,5 @@
-# IDF-CR (TGRS2024)
-### IDF-CR: Iterative Diffusion Process for Divide-and-Conquer Cloud Removal in Remote-sensing Images
-
+# SAR-DeCR
+### SAR-DeCR: Latent Diffusion for SAR-Fused Thick Cloud Removal
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-blue.svg)](https://export.arxiv.org/abs/2403.11870)<br>
 
 ## Codes
